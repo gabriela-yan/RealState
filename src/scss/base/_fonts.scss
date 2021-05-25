@@ -1,0 +1,62 @@
+// --------- Antonio Font ---------
+@font-face {
+    font-family: 'Antonio';
+    src: url('../assets/fonts/antonio/antonio-bold.eot');
+    src: url('../assets/fonts/antonio/antonio-bold.eot?#iefix') format('embedded-opentype'),
+         url('../assets/fonts/antonio/antonio-bold.woff2') format('woff2'),
+         url('../assets/fonts/antonio/antonio-bold.woff') format('woff'),
+         url('../assets/fonts/antonio/antonio-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Antonio';
+    src: url('../assets/fonts/antonio/antonio-regular.eot');
+    src: url('../assets/fonts/antonio/antonio-regular.eot?#iefix') format('embedded-opentype'),
+         url('../assets/fonts/antonio/antonio-regular.woff2') format('woff2'),
+         url('../assets/fonts/antonio/antonio-regular.woff') format('woff'),
+         url('../assets/fonts/antonio/antonio-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+// --------- PT Sans Narrow Font ---------
+@font-face {
+    font-family: 'PT Sans Narrow';
+    src: url('../assets/fonts/PT_Sans_Narrow/PTSansNarrow-Bold.eot');
+    src: url('../assets/fonts/PT_Sans_Narrow/PTSansNarrow-Bold.eot?#iefix') format('embedded-opentype'),
+         url('../assets/fonts/PT_Sans_Narrow/PTSansNarrow-Bold.woff2') format('woff2'),
+         url('../assets/fonts/PT_Sans_Narrow/PTSansNarrow-Bold.woff') format('woff'),
+         url('../assets/fonts/PT_Sans_Narrow/PTSansNarrow-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'PT Sans Narrow';
+    src: url('../assets/fonts/PT_Sans_Narrow/PTSansNarrow-Regular.eot');
+    src: url('../assets/fonts/PT_Sans_Narrow/PTSansNarrow-Regular.eot?#iefix') format('embedded-opentype'),
+         url('../assets/fonts/PT_Sans_Narrow/PTSansNarrow-Regular.woff2') format('woff2'),
+         url('../assets/fonts/PT_Sans_Narrow/PTSansNarrow-Regular.woff') format('woff'),
+         url('../assets/fonts/PT_Sans_Narrow/PTSansNarrow-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+// --------- TeX Gyre Termes Font ---------
+@font-face {
+    font-family: 'TeX Gyre Termes';
+    src: url('../assets/fonts/TeX_Gyre_Termes/texgyretermes-italic.eot');
+    src: url('../assets/fonts/TeX_Gyre_Termes/texgyretermes-italic.eot?#iefix') format('embedded-opentype'),
+         url('../assets/fonts/TeX_Gyre_Termes/texgyretermes-italic.woff2') format('woff2'),
+         url('../assets/fonts/TeX_Gyre_Termes/texgyretermes-italic.woff') format('woff'),
+         url('../assets/fonts/TeX_Gyre_Termes/texgyretermes-italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+
+}

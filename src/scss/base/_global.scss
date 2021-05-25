@@ -1,0 +1,68 @@
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family: $body-font;
+    font-size: 1rem;
+    font-weight: $regular;
+    letter-spacing: 0.55px;
+}
+
+// Headings
+h1, h2, h3, h4, h5, h6 { 
+    font-family: $title-font; 
+    font-weight: $regular;
+    text-transform:uppercase;
+}
+h1 { 
+    font-size: 3.6667rem;	
+    line-height:1.1818em;  
+    margin-top: 1em;	
+    margin-bottom: 0.6182em;
+    letter-spacing: 2px; 
+}
+h2 { 
+    font-size: 3.3333rem;	
+    line-height:1.2em;		
+    margin-top: 1.34em;	
+    margin-bottom: 0.76em;	
+    letter-spacing: 3px; 
+}
+h3 { 
+    font-size: 2.0000em;	
+    line-height:1.2667em;  
+    margin-top: 1.7em;	
+    margin-bottom: 1.3em;	
+    letter-spacing: 0px; 
+}
+h4 { 
+    font-size: 1.6667em;	
+    line-height:1.28em;	
+    margin-top: 2em;	
+    margin-bottom: 0.80em;	
+    letter-spacing: 0px; 
+}
+h5 { 
+    font-size: 1.3333em;	
+    line-height:1.3em;		
+    margin-top: 2.75em; 
+    margin-bottom: 1em;		
+    letter-spacing: 1px; 
+}
+h6 { 
+    font-size: 1.0667em;	
+    line-height:1.375em;	
+    margin-top: 2.1875em;
+    margin-bottom: 0.75em;	
+    letter-spacing: 1px; 
+}
+
+// Links
+a { 
+    text-decoration: none; 
+}
+
+// Paragraph
+p {
+    color: $txtDark;
+}
